@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Enson2
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently pursuing my studies in Bachelor of Science in Statistical Data Science at Heriot-Watt University Malaysia.
-- 📫 How to reach me - Feel free to contact me via email enson2_kk@yahoo.com
+- 👋 Hello everyone! I am a recent graduate in Statistical Data Science and excited to be joining the Github community. 
+- As a fresh graduate, I am here to learn from all the experienced and knowledgeable members and contribute to meaningful projects. 
+- I am passionate about data analytics and machine learning, and I look forward to collaborating with others to solve real-world problems. 
+- Let's learn and grow together!
 
 <!---
 Enson2/Enson2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
